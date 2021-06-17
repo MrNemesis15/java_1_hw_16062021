@@ -2,7 +2,6 @@ package hw1;
 
 public class MainClass {
     public static void main(String[] args) {
-
     }
     //Создать пустой проект в IntelliJ IDEA, создать класс HomeWorkApp, и прописать в нем метод main().
 // Класс создан далнейшее задани буду выполнять в данном классе.
