@@ -2,11 +2,9 @@ package hw1;
 
 public class MainClass {
     public static void main(String[] args) {
-    }
     //Создать пустой проект в IntelliJ IDEA, создать класс HomeWorkApp, и прописать в нем метод main().
 // Класс создан далнейшее задани буду выполнять в данном классе.
-    public class HomeWorkApp {
-        public static void main(String[] args) {
+
             printThreeWords ();
             checkSumSign ();
             printColor ();
@@ -59,4 +57,3 @@ public class MainClass {
 //Методы из пунктов 2-5 вызовите из метода main() и посмотрите корректно ли они работают.
 // Все методы вызываються из класса мейн.
 
-}
